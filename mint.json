@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Strandboss",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -18,29 +18,24 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:moin@strandscanner.de"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Vermieter",
+    "url": "https://vermieter.strandscanner.de"
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Neue Funktionen",
+      "url": "neue-funktionen"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Dokumentation",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
     },
     {
       "name": "Blog",
@@ -50,7 +45,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Jetzt loslegen",
       "pages": [
         "introduction",
         "quickstart",
@@ -67,25 +62,8 @@
         "essentials/navigation",
         "essentials/reusable-snippets"
       ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
   }
 }
