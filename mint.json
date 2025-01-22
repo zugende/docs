@@ -54,13 +54,8 @@
       {
          "group":"Die Software",
          "pages":[
-            "startseite"
-         ]
-      },
-      {
-         "group":"Essentials",
-         "pages":[
-            "/essentials/fit-fuer"
+            "/essentials/fit-fuer",
+           "startseite"
          ]
       }
    ],
