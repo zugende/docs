@@ -35,12 +35,12 @@
     {
       "name": "Dokumentation",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "/"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://www.strandboss.de/blog"
     }
   ],
   "navigation": [
@@ -55,6 +55,7 @@
     {
       "group": "Essentials",
       "pages": [
+        "essentials/fit-fuer",
         "essentials/markdown",
         "essentials/code",
         "essentials/images",
