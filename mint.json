@@ -54,17 +54,19 @@
     {
       "group": "Daten pflegen",
       "pages": [
+        "introduction",
       ]
     },
     {
       "group": "Vermietung",
       "pages": [
+        "introduction",
       ]
     },
     {
       "group": "Essentials",
       "pages": [
-        "essentials/fit-fuer"
+        "introduction",
       ]
     }
   ],
