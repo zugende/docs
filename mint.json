@@ -25,12 +25,6 @@
       "name":"Vermieter",
       "url":"https://vermieter.strandscanner.de"
    },
-   "tabs":[
-      {
-         "name":"Neue Funktionen",
-         "url":"neue-funktionen"
-      }
-   ],
    "anchors":[
       {
          "name":"Dokumentation",
@@ -48,7 +42,8 @@
          "group":"Jetzt loslegen",
          "pages":[
             "introduction",
-            "quickstart"
+            "quickstart",
+           "roadmap"
          ]
       },
       {
