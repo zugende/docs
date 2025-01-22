@@ -1,75 +1,76 @@
 {
-  "$schema": "https://mintlify.com/schema.json",
-  "name": "Strandboss",
-  "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
-  },
-  "favicon": "/favicon.svg",
-  "colors": {
-    "primary": "#113B6C",
-    "light": "#2270CB",
-    "dark": "#113B6C",
-    "anchors": {
-      "from": "#113B6C",
-      "to": "#2270CB"
-    }
-  },
-  "topbarLinks": [
-    {
-      "name": "Support",
-      "url": "mailto:moin@strandscanner.de"
-    }
-  ],
-  "topbarCtaButton": {
-    "name": "Vermieter",
-    "url": "https://vermieter.strandscanner.de"
-  },
-  "tabs": [
-    {
-      "name": "Neue Funktionen",
-      "url": "neue-funktionen"
-    }
-  ],
-  "anchors": [
-    {
-      "name": "Dokumentation",
-      "icon": "book-open-cover",
-      "url": "/"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://www.strandboss.de/blog"
-    }
-  ],
-  "navigation": [
-    {
-      "group": "Jetzt loslegen",
-      "pages": [
-        "introduction",
-        "quickstart"
-      ]
-    },
-    {
-      "group": "Die Software",
-      "pages": [
-        "startseite",
-      ]
-    },
-    {
-      "group": "Essentials",
-      "pages": [
-        "/essentials/fit-fuer",
-      ]
-    }
-  ],
-  "footerSocials": {
-  },
-  "versions": [
-  {
-    "name": "DE",
-    "locale": "de"
-  }
-]
+   "$schema":"https://mintlify.com/schema.json",
+   "name":"Strandboss",
+   "logo":{
+      "dark":"/logo/dark.svg",
+      "light":"/logo/light.svg"
+   },
+   "favicon":"/favicon.svg",
+   "colors":{
+      "primary":"#113B6C",
+      "light":"#2270CB",
+      "dark":"#113B6C",
+      "anchors":{
+         "from":"#113B6C",
+         "to":"#2270CB"
+      }
+   },
+   "topbarLinks":[
+      {
+         "name":"Support",
+         "url":"mailto:moin@strandscanner.de"
+      }
+   ],
+   "topbarCtaButton":{
+      "name":"Vermieter",
+      "url":"https://vermieter.strandscanner.de"
+   },
+   "tabs":[
+      {
+         "name":"Neue Funktionen",
+         "url":"neue-funktionen"
+      }
+   ],
+   "anchors":[
+      {
+         "name":"Dokumentation",
+         "icon":"book-open-cover",
+         "url":"/"
+      },
+      {
+         "name":"Blog",
+         "icon":"newspaper",
+         "url":"https://www.strandboss.de/blog"
+      }
+   ],
+   "navigation":[
+      {
+         "group":"Jetzt loslegen",
+         "pages":[
+            "introduction",
+            "quickstart"
+         ]
+      },
+      {
+         "group":"Die Software",
+         "pages":[
+            "startseite"
+         ]
+      },
+      {
+         "group":"Essentials",
+         "pages":[
+            "/essentials/fit-fuer"
+         ]
+      }
+   ],
+   "footerSocials":{
+      
+   },
+   "versions":[
+      {
+         "name":"DE",
+         "locale":"de"
+      }
+   ]
 }
