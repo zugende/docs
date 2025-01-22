@@ -48,20 +48,23 @@
       "group": "Jetzt loslegen",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
+        "quickstart"
+      ]
+    },
+    {
+      "group": "Daten pflegen",
+      "pages": [
+      ]
+    },
+    {
+      "group": "Vermietung",
+      "pages": [
       ]
     },
     {
       "group": "Essentials",
       "pages": [
-        "essentials/fit-fuer",
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "essentials/fit-fuer"
       ]
     }
   ],
