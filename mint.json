@@ -65,5 +65,11 @@
     }
   ],
   "footerSocials": {
+  },
+  "versions": [
+  {
+    "name": "Deutsch",
+    "locale": "de"
   }
+]
 }
