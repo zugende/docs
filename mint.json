@@ -55,7 +55,11 @@
          "group":"Die Software",
          "pages":[
             "/essentials/fit-fuer",
-           "/software/startseite"
+           "/software/startseite",
+           "/software/kalender",
+           "/software/listen",
+           "/software/statistiken",
+           "/software/einstellungen",
          ]
       }
    ],
