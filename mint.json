@@ -52,15 +52,9 @@
       ]
     },
     {
-      "group": "Daten pflegen",
+      "group": "Die Software",
       "pages": [
-        "introduction",
-      ]
-    },
-    {
-      "group": "Vermietung",
-      "pages": [
-        "introduction",
+        "startseite",
       ]
     },
     {
