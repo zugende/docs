@@ -57,9 +57,10 @@
             "/essentials/fit-fuer",
            "/software/startseite",
            "/software/kalender",
+           "/software/stammdaten",
            "/software/listen",
            "/software/statistiken",
-           "/software/einstellungen",
+           "/software/einstellungen"
          ]
       }
    ],
